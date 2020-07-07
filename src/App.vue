@@ -23,13 +23,19 @@
             </v-btn>
         </v-app-bar>
 
-        <v-content> </v-content>
+        <v-main> 
+          <MainView />
+        </v-main>
     </v-app>
 </template>
 
 <script>
+    import MainView from './views/Main';
     export default {
         name: 'App',
+        components: {
+            MainView,
+        },
         data: () => ({
             //
         }),
