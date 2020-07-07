@@ -1,10 +1,10 @@
 <template>
     <v-app>
         <v-app-bar app :color="colorPrincipal" dark>
-            <div class="d-flex align-center">
+            <v-btn text to="/">
                 <v-icon left>mdi-storefront</v-icon>
                 <span class="font-weight-bold headline">MODA'S CUTE</span>
-            </div>
+            </v-btn>
 
             <v-spacer></v-spacer>
 
