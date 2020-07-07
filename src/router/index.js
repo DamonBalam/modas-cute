@@ -7,6 +7,10 @@ import Main from '../views/Main';
 
 const routes = [
     {
+        path: '*',
+        redirect: 'Home',
+    },
+    {
         path: '/',
         name: 'Home',
         component: Main,
