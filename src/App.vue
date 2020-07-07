@@ -31,7 +31,7 @@
             </v-row>
             <RamenView />
             <SnacksView />
-            <MainView />
+            <LicorView />
         </v-main>
         <v-footer
             padless
@@ -46,13 +46,13 @@
 </template>
 
 <script>
-    import MainView from './views/Main';
+    import LicorView from './views/Licor';
     import SnacksView from './views/Snacks';
     import RamenView from './views/Ramen';
     export default {
         name: 'App',
         components: {
-            MainView,
+            LicorView,
             RamenView,
             SnacksView,
         },
