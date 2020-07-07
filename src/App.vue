@@ -2,15 +2,6 @@
     <v-app>
         <v-app-bar app :color="colorPrincipal" dark>
             <div class="d-flex align-center">
-                <!-- <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        /> -->
-
                 <v-icon left>mdi-storefront</v-icon>
                 <span class="font-weight-bold headline">MODA'S CUTE</span>
             </div>
@@ -24,14 +15,17 @@
         </v-app-bar>
 
         <v-main>
-            <v-row dense justify="center" align-content="center">
+            <!-- <v-row dense justify="center" align-content="center">
                 <v-col cols="12" class="text-center d-block my-5">
-                    <span class="headline  font-weight-bold">CATÁLOGO </span>
+                    <span class="headline  font-weight-bold">CATÁLOGOS</span>
                 </v-col>
-            </v-row>
-            <RamenView />
+            </v-row> -->
+
+            <router-view></router-view>
+
+            <!-- <RamenView />
             <SnacksView />
-            <LicorView />
+            <LicorView /> -->
         </v-main>
         <v-footer
             padless
@@ -46,15 +40,15 @@
 </template>
 
 <script>
-    import LicorView from './views/Licor';
-    import SnacksView from './views/Snacks';
-    import RamenView from './views/Ramen';
+    // import LicorView from './views/Licor';
+    // import SnacksView from './views/Snacks';
+    // import RamenView from './views/Ramen';
     export default {
         name: 'App',
         components: {
-            LicorView,
-            RamenView,
-            SnacksView,
+            // LicorView,
+            // RamenView,
+            // SnacksView,
         },
         data: () => ({
             //
