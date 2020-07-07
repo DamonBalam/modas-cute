@@ -1,20 +1,16 @@
 <template>
     <v-container>
         <v-row dense justify="center" align-content="center">
-            <!-- <v-col cols="12" class="text-center d-block my-5">
-                <span class="headline  font-weight-bold">CATÁLOGO </span>
-            </v-col> -->
-            <!-- Soju -->
             <v-col cols="6" md="3" class="px-2">
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Chum Churum Korean Soju - Original 360ml</v-card-text
+                        >Samyang Hot Chicken 2x 140g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Chum_Soju_Original.jpg" />
+                    <v-img src="../assets/articulos/2x-bolsa.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 115.00 mxn</v-card-text
+                        >$ 52.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -22,12 +18,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Chum Churum Korean Soju - Fresa 360ml</v-card-text
+                        >Samyang Hot Chicken Original 140g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Chum_Soju_Fresa.jpg" />
+                    <v-img src="../assets/articulos/1x-bolsa.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 125.00 mxn</v-card-text
+                        >$ 52.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -35,12 +31,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Chum Churum Korean Soju - Manzana 360ml</v-card-text
+                        >Samyang Hot Chicken Queso 140G</v-card-text
                     >
-                    <v-img src="../assets/articulos/Chum_Soju_Manzana.jpg" />
+                    <v-img src="../assets/articulos/ramen-queso.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 125.00 mxn</v-card-text
+                        >$ 48.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -48,26 +44,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Chum Churum Korean Soju - Durazno 360ml</v-card-text
+                        >Samyang Hot Chicken Carbo 140G</v-card-text
                     >
-                    <v-img src="../assets/articulos/Chum_Soju_Durazno.jpg" />
+                    <v-img src="../assets/articulos/carbonara.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 125.00 mxn</v-card-text
-                    >
-                </v-card>
-            </v-col>
-            <!-- Sake -->
-            <v-col cols="6" md="3" class="px-2">
-                <v-card>
-                    <v-card-text
-                        class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Ozeki Nigori Cloudy Sake 375ml</v-card-text
-                    >
-                    <v-img src="../assets/articulos/Ozeki_Sake.jpg" />
-                    <v-card-text
-                        class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 160.00 mxn</v-card-text
+                        >$ 48.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -75,12 +57,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Sayuri Nigori Sake 300ml</v-card-text
+                        >Samyang Hot chicken Kimchi 135g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Sayuri_Sake.jpg" />
+                    <v-img src="../assets/articulos/kimchibolsas.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 250.00 mxn</v-card-text
+                        >$ 48.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -88,12 +70,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Hakushika Junmai Ginjo Sake 300ml</v-card-text
+                        >Samyang Hot Chicken Big Bowl 2x Spicy 105g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Hakushika.jpg" />
+                    <v-img src="../assets/articulos/2X_BOWL.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 250.00 mxn</v-card-text
+                        >$ 70.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -101,12 +83,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Yamamoto Honke Sake 180ml</v-card-text
+                        >Samyang Hot Chicken Big Bowl JJaJJang 105 gr</v-card-text
                     >
-                    <v-img src="../assets/articulos/Yamamoto.jpg" />
+                    <v-img src="../assets/articulos/tazon-verde.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 130.00 mxn</v-card-text
+                        >$ 67.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -114,12 +96,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Cerveza Sapporo Premium 355ml</v-card-text
+                        >Samyang Hot Chicken Big Bowl Carbo 105g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Sapporo.jpg" />
+                    <v-img src="../assets/articulos/tazon-carbo.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 105.00 mxn</v-card-text
+                        >$ 67.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -127,12 +109,12 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Lotte Licor de Ginseng Coreano 750 ml</v-card-text
+                        >Samyang Hot Chicken Big Bowl Curry 105g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Korean_Ginseng_Wine.jpg" />
+                    <v-img src="../assets/articulos/tazon-cafe.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 990.00 mxn</v-card-text
+                        >$ 67.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -140,35 +122,67 @@
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Vaso para Soju</v-card-text
+                        >Samyang Hot Chicken Big Bowl Cheese 105g</v-card-text
                     >
-                    <v-img src="../assets/articulos/vasosoju.jpg" />
+                    <v-img src="../assets/articulos/tazon-queso.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 50.00 mxn</v-card-text
+                        >$ 67.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
-            <!-- bebidas -->
-            <!-- <v-col cols="6" md="3" class="px-2">
+            <v-col cols="6" md="3" class="px-2">
                 <v-card>
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
-                        >Ramune</v-card-text
+                        >Nongshim Big Shin Cup Noodle (Hot) 114g</v-card-text
                     >
-                    <v-img src="../assets/articulos/Ramune.jpg" />
+                    <v-img src="../assets/articulos/shinnoodlebig.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text pink lighten-5"
-                        >$ 50.00 mxn</v-card-text
+                        >$ 62.00 mxn</v-card-text
                     >
                 </v-card>
-            </v-col> -->
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
+                        >Nongshim Shin Cup 68g</v-card-text
+                    >
+                    <v-img src="../assets/articulos/shincup.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text pink lighten-5"
+                        >$ 48.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
+                        >Nongshim Kimchi Ramen 120 gr</v-card-text
+                    >
+                    <v-img src="../assets/articulos/kimchi_bolsa_new.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text pink lighten-5"
+                        >$ 48.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text title-1 pink lighten-4"
+                        >Nongshim Big Bowl Noodle Kimchi 112g</v-card-text
+                    >
+                    <v-img src="../assets/articulos/kimchi_bowl.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text pink lighten-5"
+                        >$ 62.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
         </v-row>
     </v-container>
 </template>
-
-<script>
-    export default {};
-</script>
-
-<style lang="scss" scoped></style>
