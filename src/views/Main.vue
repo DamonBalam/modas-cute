@@ -1,10 +1,10 @@
 <template>
     <v-container>
-        <v-row dense justify="center" align-content="center" style="height:500px!important">
+        <v-row dense justify="center" align-content="center" style="height:400px!important">
             <v-col cols="12" class="text-center d-block my-2">
                 <span class="headline  font-weight-bold"> 🎎 CATEGORÍAS 👗</span>
             </v-col>
-            <v-col cols="12" class="text-center d-block my-2">
+            <v-col cols="12" md="4" class="text-center d-block my-2">
                 <v-btn
                     color="deep-purple lighten-3"
                     dark
@@ -17,7 +17,7 @@
                     BOLSAS</v-btn
                 >
             </v-col>
-            <v-col cols="12" class="text-center d-block my-2">
+            <v-col cols="12" md="4" class="text-center d-block my-2">
                 <v-btn
                     color="deep-purple lighten-3"
                     dark
@@ -30,7 +30,7 @@
                     PRODUCTOS COREANOS</v-btn
                 >
             </v-col>
-            <v-col cols="12" class="text-center d-block my-2">
+            <v-col cols="12" md="4" class="text-center d-block my-2">
                 <v-btn
                     color="deep-purple lighten-3"
                     dark

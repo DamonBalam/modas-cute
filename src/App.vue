@@ -9,8 +9,12 @@
             <v-spacer></v-spacer>
 
             <v-btn href="https://www.facebook.com/ModasCuteOficial/" target="_blank" text>
-                <span class="mr-2">Ir a Facebook</span>
+                <!-- <span class="mr-2">Ir a Facebook</span> -->
                 <v-icon>mdi-facebook</v-icon>
+            </v-btn>
+            <v-btn href="https://www.instagram.com/moda.scuteoficial/" target="_blank" text>
+                <!-- <span class="mr-2">Ir a Facebook</span> -->
+                <v-icon>mdi-instagram</v-icon>
             </v-btn>
         </v-app-bar>
 
@@ -33,7 +37,7 @@
             :color="colorPrincipal"
             class="font-weight-bold pa-1 text-center d-block"
         >
-            Elaborado por
+            2020 - Elaborado por
             <a href="https://twitter.com/DamonBalam" target="_blank">@DamonBalam</a> 💚
         </v-footer>
     </v-app>
