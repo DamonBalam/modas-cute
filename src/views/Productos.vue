@@ -15,12 +15,14 @@
         <GalletasView />
         <SnacksView />
         <LicorView />
+        <FriturasView />
     </v-container>
 </template>
 
 <script>
     import LicorView from './Licor';
     import SnacksView from './Snacks';
+    import FriturasView from './Frituras';
     import RamenView from './Ramen';
     import BebidasView from './Bebidas';
     import GalletasView from './Galletas';
@@ -30,7 +32,8 @@
             RamenView,
             SnacksView,
             BebidasView,
-            GalletasView
+            GalletasView,
+            FriturasView
         },
         methods: {
             back() {
