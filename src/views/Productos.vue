@@ -14,8 +14,9 @@
         <BebidasView />
         <GalletasView />
         <SnacksView />
-        <LicorView />
         <FriturasView />
+        <LicorView />
+        <OtrosView />
     </v-container>
 </template>
 
@@ -26,12 +27,14 @@
     import RamenView from './Ramen';
     import BebidasView from './Bebidas';
     import GalletasView from './Galletas';
+    import OtrosView from './Otros';
     export default {
         components: {
             LicorView,
             RamenView,
             SnacksView,
             BebidasView,
+            OtrosView,
             GalletasView,
             FriturasView
         },
