@@ -11,6 +11,7 @@
             </v-col>
         </v-row>
         <RamenView />
+        <BebidasView />
         <SnacksView />
         <LicorView />
     </v-container>
@@ -20,11 +21,13 @@
     import LicorView from './Licor';
     import SnacksView from './Snacks';
     import RamenView from './Ramen';
+    import BebidasView from './Bebidas';
     export default {
         components: {
             LicorView,
             RamenView,
             SnacksView,
+            BebidasView,
         },
         methods: {
             back() {
