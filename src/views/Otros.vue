@@ -135,6 +135,45 @@
                     >
                 </v-card>
             </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Palillos de Metal Color Dorado</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/Otros/palillosgold.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 65.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Palillo y Cuchara de Metal</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/Otros/palillosmetal.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 100.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Palillo Hecho de Madera</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/Otros/packpalillos.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 10.00 mxn cada par</v-card-text
+                    >
+                </v-card>
+            </v-col>
         </v-row>
     </v-container>
 </template>
