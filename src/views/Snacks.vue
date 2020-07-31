@@ -52,7 +52,7 @@
                     <v-img aspect-ratio="1" src="../assets/articulos/kasugai_gomitas.jpg" />
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
-                        >$ 80.00 mxn</v-card-text
+                        >$ 95.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
@@ -105,6 +105,45 @@
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
                         >$ 110.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Sakuma Drops Ghibli</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/latadulces.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 185.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Popin Cookin Cake Yasan</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/kithelado.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 145.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card>
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Nagai Sakeru Gummy Green Grape</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/dulcelargo.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 68.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>

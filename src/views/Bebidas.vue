@@ -87,6 +87,46 @@
                 <v-card >
                     <v-card-text
                         class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >White Cream Soda</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/yogurtsoda.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 45.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card >
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >Melon Cream Soda</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/latamelon.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 45.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            
+            <v-col cols="6" md="3" class="px-2">
+                <v-card >
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >DyDO PuruShari Pineapple Jelly</v-card-text
+                    >
+                    <v-img aspect-ratio="1" src="../assets/articulos/jugopiña.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 65.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card >
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
                         >Haitai Pera 238 ml</v-card-text
                     >
                     <v-img aspect-ratio="1" src="../assets/articulos/haitai_pera.jpg" />
@@ -236,6 +276,19 @@
                     <v-card-text
                         class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
                         >$ 65.00 mxn</v-card-text
+                    >
+                </v-card>
+            </v-col>
+            <v-col cols="6" md="3" class="px-2">
+                <v-card >
+                    <v-card-text
+                        class="d-block text-center font-weight-bold white--text title-1 deep-purple lighten-3"
+                        >KOBE KYORYUCHI RINGOTO BITANSAN</v-card-text
+                    >
+                    <v-img  src="../assets/articulos/cerezasoda.jpg" />
+                    <v-card-text
+                        class="d-block text-center font-weight-bold black--text deep-purple lighten-4"
+                        >$ 39.00 mxn</v-card-text
                     >
                 </v-card>
             </v-col>
